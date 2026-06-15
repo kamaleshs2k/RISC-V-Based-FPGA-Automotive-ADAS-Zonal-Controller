@@ -1,6 +1,6 @@
 # RISC-V-Based-FPGA-Automotive-ADAS-Zonal-Controller
 
-![Vivado](https://img.shields.io/badge/Xilinx-Vivado_2022.x-FF6900?style=flat&logo=xilinx)
+![Vivado](https://img.shields.io/badge/Xilinx-Vivado_2024.1-FF6900?style=flat&logo=xilinx)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-PicoRV32-283272?style=flat)
 ![Cadence](https://img.shields.io/badge/Cadence-Genus_%7C_Innovus-0033A0?style=flat)
