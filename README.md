@@ -8,7 +8,7 @@
 
 A complete FPGA-based Automotive ADAS SoC prototype with 8 functional blocks including a RISC-V control unit (PicoRV32), AI decision accelerator, functional safety unit, and ISO-26262 inspired security logic. Verified 28/28 test scenarios in Cadence NCLaunch simulation with zero failures and completed physical design flow from RTL synthesis (Cadence Genus) to GDSII (Cadence Innovus) with timing closure at 100 MHz.
 
-**Author:** Kamalesh S — Saveetha Engineering College
+**Author:** Kamalesh S, Hariharan Ganesh — Saveetha Engineering College
 
 ---
 
@@ -646,4 +646,4 @@ python python/main.py
 
 ---
 
-*Developed by Kamalesh S — Saveetha Engineering College*
+*Developed by Kamalesh S, Hariharan Ganesh — Saveetha Engineering College*
